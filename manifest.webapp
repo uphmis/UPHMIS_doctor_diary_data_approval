@@ -1,0 +1,22 @@
+{
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "appType": "APP",
+  "name": "Doc Diary Data Approval",
+  "version": "1.0.0",
+  "description": "",
+  "developer": {
+    "name": "samta",
+    "email": "samta.bajpayee@gmail.com"
+  },
+  "icons": {
+  "16":"images/approval.png",
+  "48":"images/approval.png",
+  "128":"images/approval.png"
+  }
+}

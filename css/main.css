@@ -1,0 +1,113 @@
+.form {
+
+    display:inline-block;
+    vertical-align: top;
+}
+
+.leftM{
+
+    padding-left:40px;
+
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table tr, td{
+    padding-bottom:20px;
+}
+
+button {
+
+    width : 180px;
+}
+
+.formX select,input {
+
+    width: 180px;
+    
+}
+
+#treeComponent
+{
+    margin-top:20px;
+}
+#leftBar {
+
+    display:inline-block;
+    height: 100%;
+    background-color: #f3f3f3;
+    width: 305px;
+    position: fixed;
+    top: 44px;
+    left: 0;
+    padding-top: 7px;
+    border-right: 1px solid #e1e1e1;
+    z-index: 10;
+
+}
+
+#main{
+
+    margin: 45px 10px 10px 320px;
+}
+
+#header1{
+    display: flex;
+    box-sizing: border-box;
+    background: rgb(39, 102, 150);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    min-height: 48px;
+    z-index: 1400;
+}
+
+.approvalTable{
+    table-layout: auto;
+    
+    font-size: 15px;
+    word-wrap: break-word;
+    border-collapse:collapse;
+        
+}
+.approvalTable td,th{
+    border: 1px solid #dddddd;
+    text-align: center;
+    margin:0;
+    padding:0;
+}
+
+.approvalOperation{
+    width:150px;
+}
+
+.approvalOperationDiv{
+    display:block;
+}
+
+.approvalButton{
+    width:60px;
+    margin:5px;
+}
+
+.approval_nonText{
+    width:30px;
+}
+
+.approval_normal{
+
+    width:70px;
+}
+
+.approval_wide{
+    width:150px;
+}
+.hidden{
+    display:none;
+}
+.show{
+    display:block;
+}
